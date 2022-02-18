@@ -1,6 +1,6 @@
 # svelte-shadow-example
 
-Shows how shandow endpoints work in relation to slugbased routing
+Shows how shadow endpoints work in relation to slugbased routing
 
 * slug {...slug}
 * endoints
